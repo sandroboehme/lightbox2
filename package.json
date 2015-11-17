@@ -12,6 +12,14 @@
     "images"
   ],
   "homepage": "http://lokeshdhakar.com/projects/lightbox2/",
+	"files": [
+    "./dist/js/lightbox.js",
+    "./dist/css/lightbox.css",
+    "./dist/images/close.png",
+    "./dist/images/loading.gif",
+    "./dist/images/next.png",
+    "./dist/images/prev.png"
+  ],,
   "repository": {
     "type": "git",
     "url": "https://github.com/lokesh/lightbox2.git"
@@ -34,5 +42,8 @@
     "grunt-contrib-uglify": "~0.4.0",
     "grunt-contrib-watch": "^0.5.3",
     "grunt-jscs": "^1.8.0"
+  },
+  "dependencies": {
+    "jquery": "~2"
   }
 }
