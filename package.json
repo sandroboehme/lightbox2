@@ -12,7 +12,8 @@
     "images"
   ],
   "homepage": "http://lokeshdhakar.com/projects/lightbox2/",
-	"files": [
+  "main": "dist/js/lightbox.js",
+  "files": [
     "./dist/js/lightbox.js",
     "./dist/css/lightbox.css",
     "./dist/images/close.png",
