@@ -46,5 +46,5 @@
   "dependencies": {
     "jquery": "~2"
   },
-  registry: "npm"
+  "registry": "npm"
 }
